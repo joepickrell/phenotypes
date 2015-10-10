@@ -42,7 +42,7 @@ Each SNP has the properties:
 
 11. "alt_effect_hom": the effect size of the alternate allele in homozygotes (in most cases this is just twice the effect size in heterozygotes since we're generally ignoring dominance)
 
-==Usage==
+*Usage
 
 If you have a test genome, the score of the individual can be determined by simply adding up the effect sizes for all sites where the individual has the alternate allele (being sure to choose only one each of the SNPs that are in linkage disequilibrium). 
 
