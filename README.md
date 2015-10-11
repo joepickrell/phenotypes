@@ -1,6 +1,6 @@
 # phenotypes
 
-JSON files containing genetic score models (in /json)
+JSON files containing genetic score models (in json/)
 
 ##JSON entries are:
 
