@@ -36,4 +36,4 @@ This is only meaningful in comparison with the population average, which can be 
 
 That is, if the units are standard deviations and the individual has a score of 2 compared to a population average of 1 (assuming the population--EUR, AFR, AMR, or ASN--is the population from which the individual is drawn), then the individual is predicted to be 1 s.d. above the mean. This can be converted to more natural units (e.g. cm for height) if the population mean and standard deviation are known.  
 
-If the units are log-odds, this would mean that the individual's odds ratio to have the trait is 2.71 (e^1). Note that moving this to the probability scale requires knowning the population prevalence of the trait. 
+If the units are log-odds, this would mean that the individual's odds ratio to have the trait is 2.71 (e^1). Note that moving this to the probability scale requires knowing the population prevalence of the trait. 
